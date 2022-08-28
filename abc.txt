@@ -1,0 +1,2 @@
+Hi, this is a text file created and written using nano text 
+editor 
